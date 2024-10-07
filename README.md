@@ -1,6 +1,6 @@
 Yet Another Pixel Dungeon
 =======================
-
+this was cloned as a refrence for rivenroot pixel dungeon
 A mobile roguelike RPG, based on the source code of Pixel Dungeon, by Watabou. Main differences from original game are:
 
 * Significant rework of combat, stealth, healing and wand mechanics!
